@@ -1,0 +1,15 @@
+{
+  "text": "PCが不審な動作を開始しました。何かがあなたを見ています。",
+  "choices": [
+    {
+      "text": "強制終了",
+      "next": "bad_end",
+      "effect": "panic"
+    },
+    {
+      "text": "耐える",
+      "next": "scene5",
+      "effect": "panic"
+    }
+  ]
+}
